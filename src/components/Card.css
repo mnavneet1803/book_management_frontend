@@ -1,0 +1,8 @@
+.book_card{
+    cursor: pointer;
+}
+
+.book_actions{
+    display: flex;
+    justify-content: space-between;
+}
